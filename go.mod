@@ -3,7 +3,7 @@ module github.com/jaksi/sshesame
 go 1.18
 
 require (
-	github.com/adrg/xdg v0.4.0
+	github.com/adrg/xdg v0.5.0
 	github.com/jaksi/sshutils v0.0.11
 	github.com/prometheus/client_golang v1.15.0
 	golang.org/x/crypto v0.17.0
@@ -21,6 +21,6 @@ require (
 	github.com/prometheus/common v0.42.0 // indirect
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/rogpeppe/go-internal v1.10.0 // indirect
-	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/sys v0.22.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 )
